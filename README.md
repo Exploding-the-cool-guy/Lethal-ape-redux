@@ -1,30 +1,30 @@
 # Lethal ape redux
 Uhh modded it cuz its fucking slop
 
-#features:
+# features:
 
-#settings
+# settings
 some themes most of it is stuff I use when making the mod
 
-#spawners
+# spawners
 uhh a bunch of shit 
 
-#movement
+# movement
 Fly (X)
 Platforms (Im 2 lazy to fix maybe later)
 Fly (trigger)
 Noclip (trigger)
 
-#name mods
+# name mods
 three random names I made for no reason
 
-#op mods
+# op mods
 Lag spike all
 Crash all
 
-#player mods
+# player mods
 Rgb
 Brighter rgb
 Strobe
 
-#CREDITS TO DEEPSEEK MOST OF IT WAS MADE BY DEEPSEEK IM HELLA VIBECODING YES
+# CREDITS TO DEEPSEEK MOST OF IT WAS MADE BY DEEPSEEK IM HELLA VIBECODING YES
